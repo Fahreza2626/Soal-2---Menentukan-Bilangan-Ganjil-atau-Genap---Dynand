@@ -1,0 +1,1 @@
+# Soal-2---Menentukan-Bilangan-Ganjil-atau-Genap---Dynand
